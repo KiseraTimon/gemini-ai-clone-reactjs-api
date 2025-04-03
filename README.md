@@ -21,7 +21,7 @@ This is a ReactJS-based project that replicates the core features and design of 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/[gemini](https://gemini.google.com/)-clone.git
+   git clone https://github.com/KiseraTimon/gemini-ai-clone-reactjs-api.git
    ```
 2. Navigate to the project directory:
    ```bash
